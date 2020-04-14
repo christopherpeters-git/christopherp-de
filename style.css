@@ -1,0 +1,48 @@
+* {
+    font-family: Gill Sans, sans-serif;
+}
+
+body{
+    background-color: navajowhite;
+}
+
+header {
+    height: 5%;
+    width: 100%;
+    padding-left: 45%;
+    margin: auto;
+}
+
+#wrapper{
+    display: flex;
+    flex-grow: 1;
+    margin: auto;
+    width: 50%;
+    height: 600px;
+}
+
+.sidebar{
+    width: 20%;
+    float: left;
+    border: 1px solid white;
+    border-radius: 8px;
+    background-color: white;
+    padding:1%
+}
+
+.sidebar_top{
+
+}
+
+.sidebar_bottom{
+
+}
+
+#main{
+    width: 70%;
+    border: 1px solid white;
+    border-radius: 8px;
+    background-color: white;
+    margin-left: 2%;
+}
+
